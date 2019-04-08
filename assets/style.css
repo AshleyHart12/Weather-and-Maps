@@ -1,0 +1,31 @@
+body {
+    background-image: url("backgroundMap.jpg");
+    background-size: cover;
+    
+}
+
+#welcomeBox, #submit {
+    text-align: center;
+    background-color: aliceblue;
+    border-style: outset;
+    color: black;
+    padding: 10px;
+    margin-bottom: 25px;
+    opacity: .8;
+    margin-top: 20px;
+    top: 5px;
+                  
+}
+
+#cityName {
+    
+    background-color: aliceblue;
+    border-style: outset;
+    color: black;
+    opacity: .9;
+}
+
+#maps {
+   text-align: center; 
+}
+
